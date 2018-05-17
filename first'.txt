@@ -1,0 +1,11 @@
+container rule jab tak koi process na mile jab tak container one hi ni hota
+it interactive 
+-d ubuntu   :: khud ko as a service launch kar
+
+
+
+h.w.
+2 Apache Ha Proxy Ñ> Same To Be Done With Containers
+
+
+
